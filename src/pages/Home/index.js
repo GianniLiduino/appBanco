@@ -84,7 +84,7 @@ const list = [
     },
     {
         id: 12,
-        label: 'PIX de Bianca',
+        label: 'PIX de Gilberto',
         value: '220,00',
         date: '10/07/2022',
         type: 1 // receitas / entradas

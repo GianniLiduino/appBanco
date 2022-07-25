@@ -55,9 +55,16 @@ const list = [
         type: 1 // receitas / entradas
     },
     {
-        id: 7,
+        id: 8,
         label: 'PIX de Bianca',
         value: '3.200,00',
+        date: '09/07/2022',
+        type: 1 // receitas / entradas
+    },
+    {
+        id: 9,
+        label: 'PIX de Bianca',
+        value: '200,00',
         date: '09/07/2022',
         type: 1 // receitas / entradas
     },

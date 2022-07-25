@@ -89,13 +89,6 @@ const list = [
         date: '10/07/2022',
         type: 1 // receitas / entradas
     },
-    {
-        id: 13,
-        label: 'PIX de Gilberto',
-        value: '220,00',
-        date: '10/07/2022',
-        type: 1 // receitas / entradas
-    },
 ]
 
 export default function Home() {
